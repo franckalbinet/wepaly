@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "wepaly"
+  site-url: "https://franckalbinet.github.io/wepaly"
+  description: "Python package to extract data from the WEPAL quarterly reports"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/wepaly"
